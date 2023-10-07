@@ -18,8 +18,8 @@ Note : This API is only for testing purposes.
 </li>
 <li>You can also check out on VS-Code using Postman VS-Code Extension</li>
 <p>Check out this pdf for Step by Step on Postman Web App</p>
-<iframe src="https://drive.google.com/file/d/1iHPzcm_tuXCtZH0xkKBKoddsxDvWhwND/view?usp=sharing" width="100%" height="500px"></iframe>
-<a href="https://drive.google.com/file/d/1iHPzcm_tuXCtZH0xkKBKoddsxDvWhwND/view?usp=sharing"> Postman Web App Pdf link </a>
+
+<a href="https://drive.google.com/file/d/1iHPzcm_tuXCtZH0xkKBKoddsxDvWhwND/view?usp=sharing"> Postman Web App Steps Pdf link </a>
 
 
   
