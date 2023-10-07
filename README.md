@@ -7,8 +7,15 @@ This API is only for testing purposes.
 <p id="description">This project aims to create a simple Java backend application that implements a RESTful API for managing a collection of items. The primary goal is to develop a robust and easily extensible system that allows users to perform basic operations on items including adding new items and retrieving items by their unique identifiers.</p>
 
 <h2>🚀 Demo</h2>
-
-[https://saurav-item-restful-api.up.railway.app/items](https://saurav-item-restful-api.up.railway.app/items)
+<p>
+[https://saurav-item-restful-api.up.railway.app/items](https://saurav-item-restful-api.up.railway.app/items)</p>
+<h3>You Can verify this API on below Platforms</h3>
+<li><a href="https://web.postman.co/">Postman Web App</a>     Note : It requires Sign in. 
+       [Recommended]
+</li>
+<li><a href="https://reqbin.com/">Reqbin Website</a>     Note : It doesn't requires Sign in
+</li>
+<li>You can also check out on VS-Code using Postman VS-Code Extension</li>
 
   
   
@@ -29,4 +36,3 @@ Here are some of the project's best features:
 Technologies used in the project:
 
 *   Java
-*   Springboot
