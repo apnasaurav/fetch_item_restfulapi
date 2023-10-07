@@ -8,7 +8,7 @@ Note : This API is only for testing purposes.
 
 <h2>🚀 Demo</h2>
 <p>
-<a href="https://saurav-item-restful-api.up.railway.app/items">[Reqbin Website](https://saurav-item-restful-api.up.railway.app/items)</a>
+<a href="https://saurav-item-restful-api.up.railway.app/items"> API Link </a>
 </p>
 <h3>You Can verify this API on below Platforms</h3>
 <li><a href="https://web.postman.co/">Postman Web App</a>     Note : It requires Sign in. 
